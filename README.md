@@ -22,3 +22,13 @@ A personal portfolio website built using **Tailwind CSS**, **Framer Motion**, an
 ---
 
 ## 🧩 Project Structure
+```bash
+arivu-website/
+│
+├── index.html
+├── /src
+│   ├── components/
+│   ├── assets/
+│   ├── scripts/
+│   └── styles/
+└── README.md
